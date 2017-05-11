@@ -1,0 +1,23 @@
+@import "colors";
+
+$fsize: 24px;
+$ffamily: 'Trebuchet', sans-serif;
+
+body {
+  background-color: $bgcolor;
+  color: $fontcolor;
+  padding: 50px;
+}
+
+.fav-food {
+  margin: 0 auto;
+  font-size: $fsize;
+  margin-top: 20px;
+}
+
+.hide {
+  display: none;
+}
+.output {
+  margin: 0 auto;
+}
